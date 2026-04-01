@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/iqnpdc.php' ?>
 <!doctype html>
 <html lang="en">
     <head>
